@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "title": "드립 커피",
+        "description": "드랍 커피(Drop Coffee)란 볶아서 간 커피 콩을 거름 장치에 담고, 그 위에 물을 부어 만드는 커피이다. 드랍 브류(Drop brew)라 함은 이와 같이 커피를 만드는 방법을 일컫는다. 거름 장치를 필터라고도 일컬으므로, 드립 커피를 다른 말로 필터 커피(Filter coffee)라고 한다.\n\n 커피를 만드는 사람은, 물을 커피 사이로 스며나오게 한다. 단지, 중력만 이용하여 그렇게 하는 것이다. 물은 커피 층을 지나가면서 커피의 기름 성분과 에센스를 흡수한다. 그 다음 물이 필터 아래쪽을 통과한다. 커피 가루는 필터를 통과하지 않으며, 필터를 통과한 액체 성분만 카라페, 커피폿 등의 용기쪽으로 떨어져서(드리핑되어), 안쪽에 담긴다.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Manual_drip_%28pour-over%29_coffee.jpg/220px-Manual_drip_%28pour-over%29_coffee.jpg",
+        "wikiLink": "https://ko.wikipedia.org/wiki/%EB%93%9C%EB%A6%BD_%EC%BB%A4%ED%94%BC"
+    },
+    {
+        "id": 1,
+        "title": "콜드 브루 커피",
+        "description": "콜드 브루 커피(영어: cold brew coffee)는 찬물로 추출하는 커피를 말한다. 뜨거운 물로 우려내는 일반적인 커피가 몇 분 만에 커피를 뽑아낼 수 있는 것과 달리 찬물로 추출하는 커피는 적게는 30분에서 많게는 12시간까지 오랜 시간에 걸쳐 우려낸다. 찬물에 우려내는 커피를 더치 커피(일본어식 영어: Dutch coffee, 일본어: ダッチ・コーヒー)라고 부르기 시작한 곳은 일본이다. 일본의 \"더치커피\"는 도시 전설과 같은 네덜란드 선원 이야기와 함께 대한민국으로 전해졌다. 이 외의 지역에서는 더치커피보다는 콜드 브루 쪽이 일반적인 명칭이다. 이 때문에 서구권에선 일본식 커피, 쿄토식 커피와 같은 명칭으로 불리기도 한다.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/A_Cold_brew_maker_in_a_cafe_in_Bengaluru%2C_India.jpg/220px-A_Cold_brew_maker_in_a_cafe_in_Bengaluru%2C_India.jpg",
+        "wikiLink": "https://ko.wikipedia.org/wiki/%EC%BD%9C%EB%93%9C_%EB%B8%8C%EB%A3%A8_%EC%BB%A4%ED%94%BC"
+    },
+    {
+        "id": 2,
+        "title": "에스프레소",
+        "description": "에스프레소 또는 카페 에스프레소(이탈리아어: caffè espresso)는 고압·고온 하의 물을 미세하게 분쇄한 커피 가루에 가해 추출해내는 고농축 커피의 일종이다. \n\n초창기 에스프레소는 20세기 초반 이탈리아 밀라노 지역에서 개발되었다. 당시 에스프레소는 순수하게 수증기의 압력으로 추출되었다. 1940년대 중반 스프링 피스톤 레버 머신이 개발되어, 오늘날 우리가 알고 있는 형태의 에스프레소 커피가 제조되기 시작하였다. 오늘날에는 대개 대기압의 9~15배의 압력을 가해 에스프레소를 추출한다.\n\n에스프레소의 가장 큰 특징은 드립 커피(거름종이에 내리는 커피)보다 농도가 짙다는 것이다. 같은 부피를 놓고 비교해 봤을 때 드립 커피보다 일정 부피 안에 용해된 고형체의 양이 많다. 그러나 흔히 생각하는 것과는 달리 카페인의 함유량이 적은데, 커피를 빠른 시간에 뽑아내기 때문이며, 에스프레소용 커피 콩이 드립용보다 카페인이 낮은 경우가 대부분이기 때문이다. 이탈리아어의 espresso의 의미 역시 '고속의', '빠른'의 형용사이다. 에스프레소용 커피는 주로 보통 내려 먹는 커피보다 강하게 볶은(한자어:강배전) 커피를 쓴다. 마실 때는 향을 먼저 맡고 크레마를 맛 본 다음 두 번에 나누어 마시거나 단번에 마시는 것이 좋다. 기호에 따라 레몬을 넣어 마시기도 한다.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Linea_doubleespresso.jpg/220px-Linea_doubleespresso.jpg",
+        "wikiLink": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C"
+    },
+]
